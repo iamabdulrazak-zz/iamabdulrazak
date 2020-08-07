@@ -1,8 +1,7 @@
-### Hi am Abdulrazak Osman - aka [zak][mywebsite] 👋
+### Hi am Abdulrazak - aka [zak][mywebsite] 👋
 
-## Student, Linux Lover, Developer, and Python Engineer!
+## I'm a Student, Linux Lover, Developer, and Python Engineer!
 - 🔭 I’m currently working on a [LinkersIoT][company]!
-- 🌱 I’m currently learning everything 🤣
 - 🥅 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to be lazy and play video games
 

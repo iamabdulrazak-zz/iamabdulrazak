@@ -51,7 +51,7 @@
 <br />
 
 
-<img align="left" alt="Abdulrazak's Github Status" src="https://github-readme-stats.vercel.app/api?username=iamabdulrazak&show_icons=true&hide_border=true" />
+<img align="left" alt="Abdulrazak's Github Status" src="https://github-readme-stats.vercel.app/api?username=iamabdulrazak&show_icons=true&hide_border=true"/>
 
 [company]: https://linkers.io
 [mywebsite]: https://zaak.azurewebsites.net
